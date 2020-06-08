@@ -4,6 +4,7 @@
  * Modified to store strings, 2018
  */
 
+//do i still need to log in?
 // another test
 /*test comment*/
 /*
