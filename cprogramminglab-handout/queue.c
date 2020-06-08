@@ -4,6 +4,7 @@
  * Modified to store strings, 2018
  */
 
+// another test
 /*test comment*/
 /*
  * This program implements a queue supporting both FIFO and LIFO
